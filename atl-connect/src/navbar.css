@@ -1,0 +1,15 @@
+.Navbar{
+    background-color: darkolivegreen;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  .navbar li:hover {
+    text-decoration: underline;
+  }
+
