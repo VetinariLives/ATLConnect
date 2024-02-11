@@ -1,4 +1,5 @@
 # ATLConnect
+![ATLConnect Logo](/atl-connect/public/ATLconnect.png")
 
 ## Team Members
 - [Cecilia Muniz](https://github.com/ceciliamuniz)
