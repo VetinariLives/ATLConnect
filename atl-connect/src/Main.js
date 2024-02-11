@@ -1,42 +1,9 @@
 import React from "react";
 import "./App.css";
  
-function App() {
+function Main() {
     return (
         <div>
-            <nav class="navbar background">
-                <ul class="nav-list">
-                    <div class="logo">
-                        <img src=
-{process.env.PUBLIC_URL + '/ATLconnect.png'} alt="Logo"
-                        />
-                    </div>
-                    <li>
-                        <a href="#courses">Couses</a>
-                    </li>
-                    <li>
-                        <a href="#tutorials">Tutoials</a>
-                    </li>
-                    <li>
-                        <a href="#jobs">Jbs</a>
-                    </li>
-                    <li>
-                        <a href="#student">Stdent</a>
-                    </li>
-                </ul>
- 
-                <div class="rightNav">
-                    <input
-                        type="text"
-                        name="search"
-                        id="search"
-                    />
-                    <button class="btn btn-sm">
-                        Search
-                    </button>
-                </div>
-            </nav>
- 
             <section class="section">
                 <div class="box-main">
                     <div class="firstHalf">
@@ -94,4 +61,4 @@ function App() {
     );
 }
  
-export default App;
+export default Main;
