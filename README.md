@@ -11,21 +11,15 @@
 [Explain the purpose of your project here. Describe the problem it solves or the need it fulfills.]
 
 ## Tools Utilized
-- [Tool 1](link-to-tool) - Description of how it was used
-- [Tool 2](link-to-tool) - Description of how it was used
-- [Tool 3](link-to-tool) - Description of how it was used
+- [React] - We used react to build our web page
+- [Google Apps Script]- web scrapping to google sheets
 
 ## Problems Encountered and Solutions
-### Problem 1: [Description of Problem 1]
-- **Solution:** [Explain how your team overcame this problem.]
+### Problem 1: [Front-end development]
+- **Solution:** [Attending the workshop on web development allowed our team memebers to get a good understanding of how to organize and understand react. This allowed us to effectively work together when debugging and building out parts of our site.]
 
-### Problem 2: [Description of Problem 2]
-- **Solution:** [Explain how your team overcame this problem.]
+### Problem 2: [Git/Github]
+- **Solution:** [For much of our team, who were using Github for the first time, we had alot of repeated minor issues because of limited experience. Throughout the hackathon, we would show eachother how we solved similar issues when using Git]
 
-### Problem 3: [Description of Problem 3]
-- **Solution:** [Explain how your team overcame this problem.]
 
-## Credits
-- [Framework 1](link-to-framework) - Description of how it was used
-- [Framework 2](link-to-framework) - Description of how it was used
-- [API 1](link-to-api) - Description of how it was used
+
