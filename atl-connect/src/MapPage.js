@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
  
-function App() {
+function MapPage() {
     return (
         <div>
             <nav class="navbar background">
@@ -12,16 +12,16 @@ function App() {
                         />
                     </div>
                     <li>
-                        <a href="#courses">Couses</a>
+                        <a href="#courses">Courses</a>
                     </li>
                     <li>
-                        <a href="#tutorials">Tutoials</a>
+                        <a href="#tutorials">Tutorials</a>
                     </li>
                     <li>
-                        <a href="#jobs">Jbs</a>
+                        <a href="#jobs">Jobs</a>
                     </li>
                     <li>
-                        <a href="#student">Stdent</a>
+                        <a href="#student">Student</a>
                     </li>
                 </ul>
  
@@ -37,7 +37,7 @@ function App() {
                 </div>
             </nav>
  
-            <section class="section">
+            {/* <section class="section">
                 <div class="box-main">
                     <div class="firstHalf">
                         <h1 class="text-big">
@@ -72,7 +72,9 @@ function App() {
                         </p>
                     </div>
                 </div>
-            </section>
+            </section> */}
+            <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1fujTjPL1HbRLTPMnrpz09WdkxF9jFH4&ehbc=2E312F&noprof=1" width="640" height="480">
+            </iframe>
             <section class="section">
                 <div class="box-main">
                     <div class="secondHalf">
@@ -94,4 +96,4 @@ function App() {
     );
 }
  
-export default App;
+export default MapPage;
