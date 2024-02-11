@@ -6,12 +6,12 @@
   }
   .map-page {
     position: fixed;
-    top: 5  ;
+    top: 5;
     right: 0;
     bottom: 0;
     left: 0;
     width: 100vw;
-    height: 80vh;
+    height: 81.5vh;
   }
   
   iframe {

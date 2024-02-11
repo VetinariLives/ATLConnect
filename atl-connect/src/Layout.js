@@ -4,19 +4,6 @@ import "./App.css";
 const Layout = () => {
   return (
     <>
-      {/* <nav>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/blogs">Blogs</Link>
-          </li>
-          <li>
-            <Link to="/contact">Contact</Link>
-          </li>
-        </ul>
-      </nav> */}
       <nav class="navbar background">
                 <ul class="nav-list">
                     <div class="logo">
@@ -30,9 +17,8 @@ const Layout = () => {
                     <li>
                         <Link to="/MapPage">Map</Link>
                     </li>
-
                     <li>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/form1">Suggestions</Link>
                     </li>
                 </ul>                
             </nav>

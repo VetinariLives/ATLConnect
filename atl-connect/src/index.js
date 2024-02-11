@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
 import Main from "./Main";
 import MapPage from "./MapPage";
-import Contact from "./Contact";
+import form1 from "./form1";
 import NoPage from "./NoPage";
 
 export default function App() {
@@ -13,7 +13,7 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Main />} />
           <Route path="MapPage" element={<MapPage />} />
-          <Route path="contact" element={<Contact />} />
+          <Route path="form1" element={<form1 />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

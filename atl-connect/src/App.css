@@ -12,18 +12,18 @@
   justify-content: left;
   position: sticky;
   top: 0;
-  cursor: pointer;
+  cursor: auto;
   font-size: 30px !important;
 }
 
 .background {
-  background: rgb(255, 255, 255);
+  background: #535f6b;
   background-blend-mode: darken;
   background-size: cover;
 }
 
 .footer {
-  background-color: #000;
+  background-color: #535f6b;
 }
 
 .nav-list {
@@ -93,8 +93,7 @@
 
 .text-big {
   font-weight: 500;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana,
-      sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 30px;
 }
 
@@ -135,7 +134,7 @@
 .text-footer {
   text-align: center;
   padding: 30px 0;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   color: #fff;
